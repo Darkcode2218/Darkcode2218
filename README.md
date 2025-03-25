@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">My name is Ale and I'm a Front-end, from Venezuela <h2/>
+
 
 ###
 
-<h4 align="left">I'm a Junior UX/UI Designer & Web Developer passionate about crafting intuitive digital experiences and solving real-world problems through technology. With a strong foundation in front-end development, user research, and design principles, I love blending creativity with functionality to build seamless, user-friendly interfaces.</h4>
+<h4 align="left">I'm Alejandro Bello, a Junior UX/UI Designer and Web Developer with a real passion for creating intuitive digital experiences and tackling real-world challenges through technology. I’ve got a solid background in front-end development, user research, and design principles, and I thrive on mixing creativity with functionality to craft seamless, user-friendly interfaces.</h4>
 
 ###
 
